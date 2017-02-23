@@ -16,7 +16,7 @@ earlier_str = dateTopLeftCorner.strftime("%d/%m/%Y")
 print(earlier_str)
 
 # word to print
-letters = [P,R,O,B,A,B,L,Y, space, N,O,T];
+letters = [H,E,L,L,O,space,W,O,R,L,D];
 
 #compose the list
 grid = [];
